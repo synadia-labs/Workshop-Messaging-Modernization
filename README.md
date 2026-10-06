@@ -15,6 +15,6 @@ Materials and hands-on exercises for migrating from JMS brokers (including TIBCO
 1. Read the requirements in the hands-on lab guide and install the required tools.
 2. Download and extract `migration_workshop.zip`.
 3. Open a terminal in the extracted `MigrationWorkshop` directory.
-4. Follow the lab guide. Use `workshop_instruction.md` in the extracted folder as the companion command reference.
+4. Follow the lab guide. Use `workshop_instruction.md` in the extracted folder if you only want the raw lab exercise commands.
 
 The exercises cover subject filtering, accounts and permissions, partitioned consumer groups, and leaf-node topologies.
